@@ -1,0 +1,27 @@
+[submodule "backend/ELearningFlaskAPI"]
+	path = backend/ELearningFlaskAPI
+	url = https://github.com/muhyasin89/ELearningFlaskAPI.git
+[submodule "backend/ELearningGin"]
+	path = backend/ELearningGin
+	url = https://github.com/muhyasin89/ELearningGin.git
+[submodule "backend/ELearningLumenAPI"]
+	path = backend/ELearningLumenAPI
+	url = https://github.com/muhyasin89/ELearningLumenAPI.git
+[submodule "backend/ELearningSinatra"]
+	path = backend/ELearningSinatra
+	url = https://github.com/muhyasin89/ELearningSinatra.git
+[submodule "frontend/e-learning-react"]
+	path = frontend/e-learning-react
+	url = https://github.com/muhyasin89/ELearningReact.git
+[submodule "frontend/e-learning-react-admin"]
+	path = frontend/e-learning-react-admin
+	url = https://github.com/muhyasin89/ELearningAdminReact.git
+[submodule "frontend/e-learning-vue-admin"]
+	path = frontend/e-learning-vue-admin
+	url = https://github.com/muhyasin89/ELearningAdminVue.git
+[submodule "frontend/e-learning-vue"]
+	path = frontend/e-learning-vue
+	url = https://github.com/muhyasin89/ELearningVue.git
+[submodule "backend/ELearningFlask"]
+	path = backend/ELearningFlask
+	url = https://github.com/muhyasin89/ELearningFlaskAPI.git
